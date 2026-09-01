@@ -29,4 +29,4 @@ CloudExify Summer Internship 2026 — Full Stack Web Development, Month 2, Proje
 **Registration number:** CX-INT-2026-GEN-544
 **Admin Email:** khadijaniaz01@gmail.com
 **Admin login:** mX9?NbauNPFs@6q
-**Live link:**
+**Live link:** https://cloudexify-web-p4-khadija.vercel.app/
