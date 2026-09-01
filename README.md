@@ -9,9 +9,9 @@ CloudExify Summer Internship 2026 — Full Stack Web Development, Month 2, Proje
 - `index.html` — customer panel: menu, search/filter, cart, checkout, order history
 - `login.html` / `register.html` — shared auth pages
 - `admin.html` — admin dashboard: live orders, status updates, menu management, stats
-- `css/style.css` — the whole visual theme (design tokens at the top)
-- `js/supabase.js` — Supabase client init (**add your own project URL + anon key here**)
-- `js/auth.js`, `js/menu.js`, `js/cart.js`, `js/orders.js`, `js/admin.js`, `js/ui.js`
+- `style.css` — the whole visual theme (design tokens at the top)
+- `supabase.js` — Supabase client init (**add your own project URL + anon key here**)
+- `auth.js`, `menu.js`, `cart.js`, `orders.js`, `admin.js`, `ui.js`
 
 ## Supabase setup
 1. Create a free project at supabase.com.
@@ -27,5 +27,6 @@ CloudExify Summer Internship 2026 — Full Stack Web Development, Month 2, Proje
 
 **Name:** Khadija Niaz
 **Registration number:** CX-INT-2026-GEN-544
-**Admin login (for PM testing):** mX9?NbauNPFs@6q
+**Admin Email:** khadijaniaz01@gmail.com
+**Admin login:** mX9?NbauNPFs@6q
 **Live link:**
